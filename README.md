@@ -1,5 +1,5 @@
 # swift-social-typeahead
-This component implement typeahead logic for social network profile info's
+This component allows you implement the typeahead logic for searching social network accounts for the most popular social networks.
 
 # Disclaimer:
 This is a pet project. If you want to use it in production, first of all you should check, that you don't violate platform policies of social networks. Remember, you use it at your own risk! You can read it here:
